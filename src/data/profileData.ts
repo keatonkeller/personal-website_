@@ -18,7 +18,7 @@ export const workExperience = [
     period: '2018-2024',
     url: '#',
     isExited: true,
-    description: 'Founded and self-funded Gas Media Group, the world\'s leading short-form video licensing company focused on aggregation and syndication. Scaled the business to $22M in ARR—cash-flow positive and profitable—with 1,900+ clients and 3B+ monthly views, powering monetization for both breakout and established creators. Pioneered revenue models on platforms that lacked native monetization at the time (e.g., TikTok).'
+    description: 'Founded and self-funded Gas Media Group, the world\'s leading short-form video licensing company focused on aggregation and syndication. Scaled to $22M in ARR—cash-flow positive and profitable—with 1,900+ clients and 3B+ monthly views, powering monetization for creators, artists, agencies and enterprises. Pioneered revenue models on platforms that lacked native monetization at the time (e.g., TikTok).'
   },
   {
     id: 'techsmartt',

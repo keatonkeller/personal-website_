@@ -289,7 +289,7 @@ function App() {
 
       {/* Centered CTA Button - MOVED OUTSIDE for full viewport centering */}
       <motion.div
-        className={`absolute bottom-6 lg:bottom-16 inset-x-0 flex justify-center z-20 ${showEmailModal ? 'hidden' : ''}`}
+        className={`absolute bottom-2 lg:bottom-8 inset-x-0 flex justify-center z-20 ${showEmailModal ? 'hidden' : ''}`}
         initial={{ opacity: 0, y: 50, scale: 0.9 }}
         animate={{ opacity: 1, y: 0, scale: 1 }}
         transition={{ duration: 0.8, delay: 2.5, ease: 'easeOut' }}
