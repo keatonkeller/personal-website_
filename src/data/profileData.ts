@@ -3,12 +3,12 @@ import { Activity, Wifi, Film, Video, DollarSign, TrendingUp, Lock } from 'lucid
 export const workExperience = [
   {
     id: 'ugc',
-    company: 'UGC.com',
+    company: 'UGC',
     role: 'Founder',
     type: 'Startup',
     period: '2025-',
     url: 'https://ugc.com',
-    description: 'UGC.com is redefining multi-platform monetization and creator finance with daily liquidity powered by next-gen payment rails. By leveraging stablecoins and future-proof financial infrastructure, we enable creators, artists, agencies, and enterprises to access royalties instantly and take control of their financial future.'
+    description: 'Stealth'
   },
   {
     id: 'gas-media',
